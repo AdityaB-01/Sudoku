@@ -1,2 +1,2 @@
-# Sudoku
- Sudoku
+# sudoku.js-master
+ Sodoku-Solver
